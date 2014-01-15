@@ -1,0 +1,21 @@
+
+
+      Hey there <user> the new upload command is used as follows:
+
+	[You can use +u or +upload for the below]
+
+	1) You have to use:  +u <category> <magnet link list>
+
+	2) For uploading more than one magnets just select all the magnets from your filelist and paste them after +u <category>
+	For eg.
+ 	+u movies magnet:?xt=urn:tree:tiger:DVLZGUPEBGQR4M7FH6CLH6WWMONX56E6HDDMQEY&xl=7043934852&dn=Bridesmaids.mkv
+	magnet:?xt=urn:tree:tiger:JCUMBXP3YRZTE43XXLAWZMMR3BEMMUXFO5YKHHA&xl=1253351446&dn=Chronicle.mkv
+	magnet:?xt=urn:tree:tiger:4LG3EW2WXAZCBUL7KYPA7KKN2R74MV7SAURUZXY&xl=3516869018&dn=Dead+Poets+Society.mkv
+	
+	3) For shifting or updating an upload use +u <new-category> <magnet-link prev. one> ; it will shift the magnet link to the new category
+	    or update it; if u happen to change the name of file.
+
+	4) For removing an upload from the uploads' section just type -  +u rem <magnet-link>
+
+	NOTE:- Remember 3 and 4 will work only for the uploads made by you.
+	NOTE2:- There is a limit imposed on number of uploads that can be made by a user depending on their profiles.

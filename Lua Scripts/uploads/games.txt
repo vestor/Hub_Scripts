@@ -1,0 +1,116 @@
+return {
+-- Table: {1}
+{
+   ["20 11 2012"]={2},
+   ["01 11 2012"]={3},
+   ["17 04 2013"]={4},
+   ["08 04 2013"]={5},
+   ["04 04 2013"]={6},
+   ["06 04 2013"]={7},
+   ["27 11 2012"]={8},
+   ["30 10 2012"]={9},
+   ["22 10 2012"]={10},
+   ["23 10 2012"]={11},
+   ["24 10 2012"]={12},
+   ["16 10 2012"]={13},
+   ["18 10 2012"]={14},
+   ["28 10 2012"]={15},
+   ["29 10 2012"]={16},
+   ["27 04 2013"]={17},
+   ["31 10 2012"]={18},
+   ["16 11 2012"]={19},
+   ["14 04 2013"]={20},
+},
+-- Table: {2}
+{
+   "magnet:?xt=urn:tree:tiger:FILL6BF6QI4I3QKVGLYVYI3QVLC7AL32WWUAJFA&xl=29478216&dn=Agricultural+Simulator+2013+Announcement+Trailer+HD+%5BBlueEagle%5D.mp4||BlueEagle",
+   "magnet:?xt=urn:tree:tiger:4PB33VPFXIFX2Y2LFCWEQH6XTYYJI6VRSRBBOKA&xl=1415178240&dn=Agricultural+Simulator+2013-SKIDROW+%5BBlueEagle%5D.iso||BlueEagle",
+},
+-- Table: {3}
+{
+   "magnet:?xt=urn:tree:tiger:RXOS6SN3HWNWZZND4HICO7N2N6LNCDJGD7BLVAA&xl=26807234&dn=TeknoMW3_2.7.0.1_and_Update_1.4.382%5BCyCl()PS%5D.rar Use this for server creation||Vestor",
+},
+-- Table: {4}
+{
+   "magnet:?xt=urn:tree:tiger:LRIL5KHNJB4YMBV3IOO7BBSMZK4O7PNFVBE7ZSI&dn=FIFA+14+Reveal.pdf&xl=347246||Loading....",
+   "magnet:?xt=urn:tree:tiger:ZMTET553EP3R4HFQH3OCC6WYMP7LZMME2WREJJY&dn=FAFA+14+features.pdf&xl=575244||Loading....",
+   "magnet:?xt=urn:tree:tiger:72IJPU7IMRKY7D7GEYWF3LWLCCGETRVJJZFKY6I&dn=FIFA+14+-+Real+Ball+Physics+-+Test+Bed+Footage%5BLoading....%5D.mp4&xl=12117697||Loading....",
+   "magnet:?xt=urn:tree:tiger:A3F32SKHUABYJ2VIVFCG4HPPUDBWE2SYSZZ7A5Y&dn=FIFA+14++Pure+Shot++Test+Bed+Footage%5BLoading.....%5D.mp4&xl=6492841||Loading....",
+},
+-- Table: {5}
+{
+   "magnet:?xt=urn:tree:tiger:H5VF34Z23IV4AH52DXS2WK4B5H32W36ME2B5OBI&xl=1796534&dn=Age.of.Empires.II.HD.Gamefix.Read.Nfo-RELOADED.rar||hYaDeS",
+},
+-- Table: {6}
+{
+   "magnet:?xt=urn:tree:tiger:IAQNXRO3ZJ6JMYRLG4NA4T76W3HOLEXGOOWREFY&xl=14530084864&dn=StarCraft.II.Heart.of.the.Swarm.Proper-RELOADED.iso||V10let",
+},
+-- Table: {7}
+{
+   "magnet:?xt=urn:tree:tiger:YFV45TDJK7YBUAXHEGT7YLZK4O4ROPPFNNAI6FQ&xl=1065385875&dn=Age.of.Empires.II.HD-RELOADED.rar||hYaDeS",
+   "magnet:?xt=urn:tree:tiger:BMDFDAJQC6K2MZ4PI4PZIPMWTKYXZMT35FEVQSI&xl=3262255&dn=ChickenInvadersInstaller130+%5BL0Lbabu%5D.exe||L0Lbabu",
+   "magnet:?xt=urn:tree:tiger:G6VKC6XJXXZEQKSA6I7IPURFAVJETJ5GJ45YXNI&xl=21792433&dn=Chicken+Invaders+4+-+Ultimate+Omelette.rar||V10let",
+},
+-- Table: {8}
+{
+   "magnet:?xt=urn:tree:tiger:ILKAKYZ6BL4576PU2DUUEKXXQNCHIG5HF5EA2UQ&xl=526069016&dn=Zodiac+Prophecies+The+Serpent+Bearer+v1+01+0166-TE+%5BBlueEagle%5D.exe||BlueEagle",
+   "magnet:?xt=urn:tree:tiger:PIGCLXOIFCWSAN7LZ773ODL2I65XLZ6TQNPL7OY&xl=2323435520&dn=Frozen+Hearth-RELOADED+%5BBlueEagle%5D.iso||BlueEagle",
+},
+-- Table: {9}
+{
+   "magnet:?xt=urn:tree:tiger:QV7PRBYDDZ7BWSFISEG3AX2DWDDHAMWEKUEC3EY&xl=5762815326&dn=Need+for+Speed+Most+Wanted+Limited+Edition-FULL+UNLOCKED%5B%23Sh3RL0cK%E2%84%A2%5D.rar||#Sh3RL0cK™",
+},
+-- Table: {10}
+{
+   "magnet:?xt=urn:tree:tiger:BKB2WXHN4ZX5DDJCBYI45YNGYMTLS3JK4DFVSVA&xl=579833856&dn=Euro.Truck.Simulator+2+FULL-+P2P.iso||schneiderlin",
+},
+-- Table: {11}
+{
+   "magnet:?xt=urn:tree:tiger:45KWVG2SPMLWDATHS6JXTHMCQV4FAAHY4RSFCYI&xl=6556728594&dn=FIFA+Manager+13+%5Br3v3ng3%5D.rar||r3v3ng3",
+},
+-- Table: {12}
+{
+   "magnet:?xt=urn:tree:tiger:KHRBOKN57Z4ETOFNGKWR3SAL323LCTLHASAQXUI&xl=3451326464&dn=Railworks+3+Train+Simulator+2012+Deluxe-SKIDROW.iso||^^DON^^",
+},
+-- Table: {13}
+{
+   "magnet:?xt=urn:tree:tiger:DZDHPTKLOMWGGFD4JSN5BD362UAFA72E3SWFDPQ&xl=4293298176&dn=Doom+3+BFG+Edition-SKIDROW+%5Br3v3ng3%5D.iso||r3v3ng3",
+   "magnet:?xt=urn:tree:tiger:P53SADYGH2GGOJKDIUYOLMRFGIAB6H6XJT57WJQ&xl=3844503552&dn=WRC+World+Rally+Championship+3-SKIDROW+%5Br3v3ng3%5D.iso||r3v3ng3",
+},
+-- Table: {14}
+{
+   "magnet:?xt=urn:tree:tiger:E7I54EJ6KHWKF2FWFAH6QSJ3Z54QJA4PT4NJNCA&xl=2066494728&dn=Borderlands+2+Captain+Scarlett+and+her+Pirates+Booty+DLC+%7Bincludes+all+other+DLCs%7D+-+SKIDROW+%5Br3v3ng3%5D.rar||r3v3ng3",
+   "magnet:?xt=urn:tree:tiger:CKAZQHDXDLF7U5ZLEH3T2SD6YEHL5OT5RGDLOBY&xl=2084929536&dn=Mark_of_the_Ninja-FLT+-+By+BlueEagle.iso||BlueEagle",
+},
+-- Table: {15}
+{
+   "magnet:?xt=urn:bitprint:RNWRRY6OJP4UQEADWACNK4BL7RZCVMM4.RATL4DXMER3SHENUPVF6NI2MPNO2XVU7GNQM6KI&xt=urn:md5:f7038bb21b4698b1ef3dfeea021cf697&xl=212367827&dn=FIFA13-Soundtracks%7B3raser%7D.rar||3raser",
+   "magnet:?xt=urn:tree:tiger:FBBA3F2ERCQVSTAMDS7CKKK27KHJULOKZVWPABI&xl=4330395648&dn=sr-sgw.iso  sniper ghost warrior ||^^DON^^",
+},
+-- Table: {16}
+{
+   "magnet:?xt=urn:tree:tiger:ZEOR7HJD37DG3ZQJ4Z6A7XNG6XZCXLCAL2LM3NY&xl=5666099208&dn=NFS-MW+LE.rar  nfs most wanted 2012 limited edition||^^DON^^",
+   "magnet:?xt=urn:tree:tiger:LAI7FIYSXYQFTGNTDTN6KAE7SH3X365K33GAKTI&xl=5814784&dn=NFS13.exe  crack is here enjoy guys ...||^^DON^^",
+},
+-- Table: {17}
+{
+   "magnet:?xt=urn:tree:tiger:ENDVNFKSM7BH5CYATKXNTJX3LAOADGNZHMGDXDI&xl=593826035&dn=PokerNight2FLT%5BhYaDeS%5D.rar||hYaDeS",
+},
+-- Table: {18}
+{
+   "magnet:?xt=urn:tree:tiger:7PYCXETCSBKDZWZE7OAQB5ZOASBA2PIQTZ2GQ7I&xl=33078269&dn=Crack(Apply+only+on+RELOADED+Version).rar||..zp",
+   "magnet:?xt=urn:tree:tiger:QN65DWWA2RG7SVJHXIOXACGKEKQ3RBUU3FMDO3A&xl=22208373&dn=How+to+Play+Tekno+MW3+on+LAN+-+YouTube.MP4||..zp",
+   "magnet:?xt=urn:tree:tiger:B3LQKIHKYBPZAEEFTPD4H4QS45AW4CMT2ABQWOQ&xl=14810103808&dn=Modern+Warfare+3+Lan++Play-PRECRACKED...iso||..zp",
+   "magnet:?xt=urn:tree:tiger:X4UCFTQB6QEINKIV2KL2VEVJHV5LPPE4MYCESUI&xl=2288&dn=Read+First.txt||..zp",
+},
+-- Table: {19}
+{
+   "magnet:?xt=urn:tree:tiger:KJX4UYCBK2ODMFMUZA66WVMVAW2YYDZACDT22PI&xl=7773543&dn=Call.of.Duty.Black.Ops.2.Proper.Crack.Only-3DM+%5Br3v3ng3%5D.rar||r3v3ng3",
+   "magnet:?xt=urn:tree:tiger:Y7CEI4LVRG4FCR7EEVC5KBJLITTWSFPAU6NRAOQ&xl=158202080&dn=Call+of+Duty++Black+Ops+I+-+Story+Review+in+5+Minutes+-+IGN+%5Br3v3ng3%5D.flv||r3v3ng3",
+   "magnet:?xt=urn:tree:tiger:47VCBVBXVVOMHHAACPEERQ63OZ546SXEI4VN74Y&xl=42232110&dn=Call+of+Duty+Black+Ops+II+-+Video+Review+-+Gamespot+%5Br3v3ng3%5D.mp4||r3v3ng3",
+},
+-- Table: {20}
+{
+   "magnet:?xt=urn:tree:tiger:NDYE2ALJ4PMTPXBHY225EY4CSYPROLQZHWU4JBA&xl=3396745216&dn=Titan+Quest+%5BEng%5D+%5BN%40tive%5D.iso||N@tive",
+},
+}

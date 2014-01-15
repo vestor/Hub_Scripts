@@ -1,0 +1,8 @@
+
+	
+Hey There <user>,	
+	This uploads 2.0 script was rewritten by Vestor over a period of 1 day for ptokaX hub in LUA.( updated over the previous script ) 
+	If you have any suggestions please PM. me ; be sure to check out help for new functionality
+
+	Many heavy thanks to :  BlueEagle( Godly Thanks ) and CyCl()PS , and to hYaDeS for their help and pointing out the bugs.
+	THANKS GUYS

@@ -1,0 +1,93 @@
+return {
+-- Table: {1}
+{
+   ["31 10 2012"]={2},
+   ["30 10 2012"]={3},
+   ["01 11 2012"]={4},
+   ["17 04 2013"]={5},
+   ["02 11 2012"]={6},
+   ["08 04 2013"]={7},
+   ["17 10 2012"]={8},
+   ["19 10 2012"]={9},
+   ["01 05 2013"]={10},
+   ["15 11 2012"]={11},
+   ["25 10 2012"]={12},
+   ["10 12 2012"]={13},
+   ["11 04 2013"]={14},
+   ["12 04 2013"]={15},
+   ["26 04 2013"]={16},
+},
+-- Table: {2}
+{
+   "magnet:?xt=urn:tree:tiger:NJPJALZKDORWJQAWU5DA7ERDWMGDHAZJOLC2KEQ&xl=778745152&dn=Atmel+Studio+6.exe||!!!~L@V@NG@M~!!!",
+   "magnet:?xt=urn:tree:tiger:YHXZUEBMAH6VLQ3SNVVHNYPFYLPCB5CAZ42TQ3I&xl=120249056&dn=Proteus+7.10+%5BL%40V%40NG%40M%5D.rar||!!!~L@V@NG@M~!!!",
+   "magnet:?xt=urn:tree:tiger:NWSKTESZ25XT3NRPN6AVMXTAKV5FPGTMJZVZWQI&xl=2112683523&dn=Autodesk_Simulation_Multiphysics_2013_EFGIJ_Win_32-64bit.exe||!!!~L@V@NG@M~!!!",
+},
+-- Table: {3}
+{
+   "magnet:?xt=urn:tree:tiger:ICDVJPNQNZHVXOGJDV2O4HIWGOAU3I5AYWXKULY&xl=4198193&dn=CCleaner+Pro+%26+Business+v+3.24%5B%23Sh3RL0cK%E2%84%A2%5D.zip||#Sh3RL0cK™",
+   "magnet:?xt=urn:tree:tiger:A6GCY6QITVQDLC4E65U65Q3IB25CCSKLGDDRB4Y&xl=699004928&dn=Microsoft+Office+Professional+Plus+2013+Final+32bit~RodriGeuZ.iso||RodriGueZ",
+   "magnet:?xt=urn:tree:tiger:P2ZJ7B77YYXTNPYHXMA2ZKOWOSHZNEO7P7OEHWQ&xl=806676480&dn=Microsoft+Office+Professional+Plus+2013+Final+64bit~RodriGeuZ.iso||RodriGueZ",
+},
+-- Table: {4}
+{
+   "magnet:?xt=urn:tree:tiger:CODW5CEWWACQMY236Z3CT5PDCUPXMLTRKKLBFBI&xl=316036944&dn=AMD+High-Definition+(HD)+Graphics+Driver+8.93+-+By+BlueEagle.exe||BlueEagle",
+},
+-- Table: {5}
+{
+   "magnet:?xt=urn:tree:tiger:OVEDSGUFO6YL7I7DR6RKIOGDQ6RHN2H7MMAM7YY&xl=32642064&dn=KMPlayer_3.6.0.87.exe||V10let",
+   "magnet:?xt=urn:tree:tiger:7BLDSLQZTG36VRFN3MNZ3VUIIH6P4A6ERSUKJGQ&xl=3860426752&dn=Microsoft.Windows.8.1.Build.6.3.9369.x64.DVD-iND.iso||V10let",
+   "magnet:?xt=urn:tree:tiger:D2SSYNKZ2QZAZWOBRNHPZMCHKA5NJXM2D22N4UI&xl=544&dn=int-win8.1-9369-x64.nfo||V10let",
+},
+-- Table: {6}
+{
+   "magnet:?xt=urn:tree:tiger:3HO5TFW2W7AYQMM5ZC74PGSU7RAL5OCAJMC4DKQ&xl=1418642001&dn=Autodesk_Simulation_CFD_2013_Multilingual_Win_64bit_SP1%5BL%40V%40NG%40M%5D.exe||!!!~L@V@NG@M~!!!",
+   "magnet:?xt=urn:tree:tiger:FIUU6D5W4J66TVZ6S5Z32RNE2EJQXAWTRADS63Q&xl=16611849&dn=fritzing.2012.07.02.pc%5BL%40V%40NG%40M%5D.rar||!!!~L@V@NG@M~!!!",
+},
+-- Table: {7}
+{
+   "magnet:?xt=urn:tree:tiger:SMED6O3LW4I4HJMUITEJGRNISSZJ66PQXFRWVZQ&xl=13350192&dn=ApexDC%2B%2B_1.5.6_Setup_%5BBaboon%5D.exe||!.R.Baboon",
+   "magnet:?xt=urn:tree:tiger:P2B4WVNIV2O7ELANUOQ7S443KA5VHLYMFR2T3UQ&xl=192337&dn=ApexDC%2B%2B_1.5.6_Plugins_%5BBaboon%5D.7z||!.R.Baboon",
+},
+-- Table: {8}
+{
+   "magnet:?xt=urn:tree:tiger:5P37W5T7SLNVRWQ6NPGDAA46CF2LJ3BJLLKTJEY&xl=879474688&dn=Video2Brain+Learning+AutoCAD+2013-PLATO+%5Br3v3ng3%5D.iso||r3v3ng3",
+},
+-- Table: {9}
+{
+   "magnet:?xt=urn:tree:tiger:YWSUG4PKWD4SIKAMHPE5VX5JYLSHCM4B2WCCOKI&xl=789884928&dn=ubuntu-12.10-desktop-i386+-+By+BlueEagle.iso||BlueEagle",
+   "magnet:?xt=urn:tree:tiger:OFPZGQC2PJ7RZ67EHSUZTUEBV4H35K3S3YLFBRY&xl=800063488&dn=ubuntu-12.10-desktop-amd64.iso||hYaDeS",
+},
+-- Table: {10}
+{
+   "magnet:?xt=urn:tree:tiger:LTV7XEPFLQYBOJSWKEVQMI4D4OCHHLWWKLPGUJI&xl=6166104&dn=IDM+6.15+Build+10%5BHellraiser%5D.rar||Hellrasier",
+},
+-- Table: {11}
+{
+   "magnet:?xt=urn:tree:tiger:LPWLPS6CTOKCEPFYBNVV2YGJPGNSXNUYK4R6M7A&xl=59304964&dn=TuneUp+Utilities+2013+software+%2B+crack.rar||!!!~Lavangam~!!!",
+},
+-- Table: {12}
+{
+   "magnet:?xt=urn:tree:tiger:S7GNP4FTJV6WOPC6DZLRVLIIXD5C4H7OVQOTQWQ&xl=175869728&dn=GeForce+310.33-desktop-win8-win7-winvista-64bit-english-beta+-+By+BlueEagle.exe||BlueEagle",
+},
+-- Table: {13}
+{
+   "magnet:?xt=urn:tree:tiger:PYNSXINBSNFHNVT2TK37VVUVHXY3V7DVLLWV4OA&xl=456177&dn=Anagram+Finder.zip||don!don!don!",
+   "magnet:?xt=urn:tree:tiger:MMCCA52E45QZYW3S5CRTTRYN5XX2PJSSRQGC3MA&xl=456721&dn=Anagram+Finder+1.1.zip||don!don!don!",
+   "magnet:?xt=urn:tree:tiger:RZAXNEX4IXKDPDUMGZKOUPOHEP7LBKSPMT4QLGI&xl=30366&dn=AB+Calculator+(A+calculator+worth+checking+out).zip||don!don!don!",
+   "magnet:?xt=urn:tree:tiger:A5ZZ2MOADT3Y23Z2TCAM5WC3ZZDFJULCMLM5VTQ&xl=456837&dn=Anagram+Finder+1.1.1.zip||don!don!don!",
+},
+-- Table: {14}
+{
+   "magnet:?xt=urn:tree:tiger:FSU2GL7VZRSFKE4FVYNGNQ7YDDPP437J4TMQZZQ&xl=50036245&dn=DCPlusPlus-0.811.exe||reckon56",
+   "magnet:?xt=urn:tree:tiger:L675QSYWZXSNPHQB4JPWO5O6UB4F2CGO7IUNVOY&xl=32688328&dn=KMPlayer_3-6-0-85.exe||V10let",
+},
+-- Table: {15}
+{
+   "magnet:?xt=urn:tree:tiger:6KQD4HXYC5VUDJVNHFWDREEC3O7VPLO2DGX4HVQ&xl=225981184&dn=314.22-Nvidia+Graphics+update+win8-win7-64bit.exe||#Hash#",
+},
+-- Table: {16}
+{
+   "magnet:?xt=urn:tree:tiger:TKDFO6RKSESDXJJSLB2L7UIINONP6EU4QZNWXII&xl=6145628&dn=IDM.6.15.9.rar||V10let",
+},
+}

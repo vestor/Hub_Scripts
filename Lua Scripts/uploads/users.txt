@@ -1,0 +1,8 @@
+return {
+-- Table: {1}
+{
+   ["Starney"]=1,
+   ["4r490rn"]=1,
+   ["Chester"]=2,
+},
+}

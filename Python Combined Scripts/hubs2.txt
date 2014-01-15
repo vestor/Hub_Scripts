@@ -1,0 +1,16 @@
+
+
+
+             CURRENT HUBS RUNNING ON LAN
+
+============================================================
+                    Last Updated:       21:42:5 12/5/2013
+
+===============HUB IP===============HUB-NAME===============
+             Join     dchub://172.16.15.147         Gotham Central
+             Join     dchub://172.17.1.117         The Heavenly Abode of Football
+             Join     dchub://172.17.9.69         Alchemy Reloaded
+             Join     dchub://172.16.13.48         Open DC Hub
+             Join     dchub://172.16.12.39         DeZire
+             Join     dchub://172.16.10.78         Au$cHw!tz - Arbeit Macht Frei
+             Join     dchub://172.16.10.147         PSYCHEDELIA - Expiry date: 16th May
